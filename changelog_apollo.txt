@@ -1,3 +1,6 @@
+VoltageOS 4.2
+ - Added back Charging Control
+ 
 VoltageOS 4.1
  - Android 15
  - Removed thermal profiles from XiaomiParts
