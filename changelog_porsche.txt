@@ -1,3 +1,11 @@
+VoltageOS 4.2 Fix build
+- Added Dolby Atmos support
+- Switched to libperf
+- Fixed distortion on speaker at high volume
+- Fixed glitches on homescreen
+- Battery life improvements
+- Added flash support for Gapps and sandbox gapps will work too
+
 VoltageOS 3.2
 Build Date: 27/02/2024
 

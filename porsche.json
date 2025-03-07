@@ -4,12 +4,12 @@
         "maintainer": "Cykeek",
         "oem": "Realme",
         "device": "Realme GT 2",
-        "filename": "voltage-3.2-porsche-20240226-1326-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/porsche/voltage-3.2-porsche-20240226-1326-OFFICIAL.zip/download",
-        "timestamp": 1708953602,
-        "md5": "d81b2ae50ab9e4caf17e35d774254a24",
-        "size": 2155044848,
-        "version": "3.2"
+        "filename": "voltage-4.2-porsche-20250307-0817-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/porsche/voltage-4.2-porsche-20250307-0817-OFFICIAL.zip/download",
+        "timestamp": 1741282787,
+        "md5": "871a07c9d821bab429280a25a3079a2a",
+        "size": 1847243796,
+        "version": "4.2"
     }
   ]
 }
